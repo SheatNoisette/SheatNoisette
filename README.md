@@ -1,6 +1,6 @@
 ### Hi, I'm SheatNoisette!
 
-I design broken, mostly unusable, things.
+I design things.
 
 [![SheatNoisette's github stats](https://github-readme-stats.vercel.app/api?username=SheatNoisette&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SheatNoisette&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
