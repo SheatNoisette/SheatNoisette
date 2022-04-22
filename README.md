@@ -2,8 +2,6 @@
 
 💻 I make things that sometime works in C / C++ / Python / Java.
 
-🔭 Currently playing around with ![V](https://github.com/vlang/v)!
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSheatNoisette%2FSheatNoisette&countColor=%23263759)
 
 
